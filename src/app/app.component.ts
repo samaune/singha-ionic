@@ -4,7 +4,7 @@ import { SwUpdate } from '@angular/service-worker';
 import { addIcons } from 'ionicons';
 
 import { SplashScreen } from '@capacitor/splash-screen';
-import { StatusBar } from '@capacitor/status-bar';
+import { StatusBar, Style } from '@capacitor/status-bar';
 
 import { Storage } from '@ionic/storage-angular';
 
@@ -145,7 +145,10 @@ export class AppComponent implements OnInit {
   initializeApp() {
     this.platform.ready().then(() => {
       if (this.platform.is('hybrid')) {
-        StatusBar.hide();
+        StatusBar.show();
+        // StatusBar.setOverlaysWebView({ overlay: true });
+        // StatusBar.setStyle({ style: Style.Dark }); // or Style.Light
+        // StatusBar.setBackgroundColor({ color: '#000000' });
         SplashScreen.hide();
       }
     });
