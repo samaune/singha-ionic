@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.ionicframework.conferenceapp"
+    namespace "app.singha.portal"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.ionicframework.conferenceapp"
+        applicationId "app.singha.portal"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 2

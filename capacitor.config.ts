@@ -4,6 +4,9 @@ const config: CapacitorConfig = {
   appId: 'portal.singha.app',
   appName: 'portal',
   webDir: 'www',
+  server: {
+		url: "https://portal.singha.app"
+	},
   plugins: {
     SplashScreen: {
       launchShowDuration: 3000,

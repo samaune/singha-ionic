@@ -12,14 +12,14 @@ import {
     <ion-list>
       <ion-item
         button
-        (click)="close('https://ionicframework.com/getting-started')"
+        (click)="close('https://singha.app/getting-started')"
       >
         <ion-label>Learn Ionic</ion-label>
       </ion-item>
-      <ion-item button (click)="close('https://ionicframework.com/docs/')">
+      <ion-item button (click)="close('https://singha.app/docs/')">
         <ion-label>Documentation</ion-label>
       </ion-item>
-      <ion-item button (click)="close('https://showcase.ionicframework.com')">
+      <ion-item button (click)="close('https://showcase.singha.app')">
         <ion-label>Showcase</ion-label>
       </ion-item>
       <ion-item button (click)="close('https://github.com/ionic-team/ionic')">

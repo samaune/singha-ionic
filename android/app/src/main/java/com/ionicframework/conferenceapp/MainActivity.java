@@ -1,4 +1,4 @@
-package com.ionicframework.conferenceapp;
+package app.singha.portal;
 
 import com.getcapacitor.BridgeActivity;
 

@@ -2,7 +2,7 @@
   "name": "portal",
   "version": "0.0.0",
   "description": "Ionic Conference App",
-  "author": "Ionic Team <hi@ionicframework.com>",
+  "author": "Ionic Team <hi@singha.app>",
   "license": "MIT",
   "scripts": {
     "ng": "ng",

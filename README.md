@@ -1,6 +1,5 @@
-# Ionic Angular Conference App
 
-[![Built with Ionic](https://img.shields.io/badge/-Built%20with%20Ionic-3880FF?style=flat&logo=ionic&logoColor=white)](https://ionicframework.com)
+[![Built with Ionic](https://img.shields.io/badge/-Built%20with%20Ionic-3880FF?style=flat&logo=ionic&logoColor=white)](https://singha.app)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 

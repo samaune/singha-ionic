@@ -20,7 +20,7 @@ Before submitting an issue, please go through [the list below](#before-submittin
 ### Before Submitting an Issue
 
 * Make sure you get the latest version of the code and run through the [Getting Started](https://github.com/ionic-team/portal#getting-started) steps to see if this resolves your issue.
-* Check the [forum](https://forum.ionicframework.com) for similar questions and answers.
+* Check the [forum](https://forum.singha.app) for similar questions and answers.
 * Go through [all issues](https://github.com/ionic-team/portal/issues?utf8=%E2%9C%93&q=is%3Aissue) on this repository to see if the issue has already been created. It could have been closed with a resolution, so check closed issues, too.
 * Chat with us on [Discord](https://ionic.link/discord) to see if we can find a solution to the problem!
 * [Determine which repository](#determining-the-repository) the problem should be reported in.
@@ -31,7 +31,7 @@ There are several repositories being used for Ionic, which makes it difficult to
 
 * The [Ionic Framework repository](https://github.com/ionic-team/ionic-framework) is a repository for all things related to the Ionic Framework. If you are able to reproduce the issue in any of the Ionic starters (or an existing project), you'll want to submit the issue [here](https://github.com/ionic-team/ionic-framework/issues).
 * The [Ionic CLI repository](https://github.com/ionic-team/ionic-cli) contains all of the code that allows you to run `ionic` commands from a terminal window. It is safe to put any issues [here](https://github.com/ionic-team/ionic-cli/issues) that relate to running an `ionic` command.
-* **This repository** is a demo of the Ionic Framework. If you find an issue with this app that does not occur on [a new app](https://ionicframework.com/docs/intro/cli#start-an-app), please submit the issue [here](https://github.com/ionic-team/portal/issues).
+* **This repository** is a demo of the Ionic Framework. If you find an issue with this app that does not occur on [a new app](https://singha.app/docs/intro/cli#start-an-app), please submit the issue [here](https://github.com/ionic-team/portal/issues).
 
 ### Submitting the Issue
 
