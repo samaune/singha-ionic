@@ -1,0 +1,7 @@
+{
+  "name": "portal",
+  "type": "angular",
+  "integrations": {
+    "capacitor": {}
+  }
+}
